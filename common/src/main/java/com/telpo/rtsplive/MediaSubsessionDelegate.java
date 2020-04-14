@@ -11,16 +11,22 @@ import java.lang.reflect.Constructor;
 public interface MediaSubsessionDelegate {
     /**
      * 创建 native 媒体子会话
+     * <p>
+     * 这个方法只在 RtspServer 内部实现调用，请不要在其它地方调用。
      */
     long createMediaSubsession(long nativeService);
 
     /**
      * 当 Rtsp 流创建时被调用
+     * <p>
+     * 这个方法只在 MediaSubsessionDelegate 内部实现调用，请不要在其它地方调用。
      */
     void onStreamCreate();
 
     /**
      * 当 Rtsp 流关闭时被调用
+     * <p>
+     * 这个方法只在 MediaSubsessionDelegate 内部实现调用，请不要在其它地方调用。
      */
     void onStreamClose();
 

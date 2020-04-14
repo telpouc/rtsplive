@@ -1,5 +1,7 @@
 # Android Rtsp Video Streaming Library For Telpo Device
 
+[![](https://www.jitpack.io/v/telpouc/rtsplive.svg)](https://www.jitpack.io/#telpouc/rtsplive)
+
 ## 使用
 * **添加 JitPack 仓库到项目的根 build.gradle**
 <br>Add JitPack repository in your root build.gradle:
@@ -33,5 +35,6 @@
 ```
 
 * **API**
-<br>
-具体 API 用法请参考 [Demo](https://github.com/telpouc/rtsplive/tree/master/app)
+<br>具体 API 用法请参考 [Demo](https://github.com/telpouc/rtsplive/tree/master/app)
+<br>具体 API 接口说明请参考 [在线 Javadoc 文档](https://www.jitpack.io/com/github/telpouc/rtsplive/common/1.0.1/javadoc)
+
