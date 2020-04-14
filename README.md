@@ -33,5 +33,4 @@
 ```
 
 * **API**
-<br>
-具体 API 用法请参考 [Demo](https://github.com/telpouc/rtsplive/tree/master/app)
+<br>具体 API 用法请参考 [Demo](https://github.com/telpouc/rtsplive/tree/master/app)
