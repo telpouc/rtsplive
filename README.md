@@ -37,4 +37,3 @@
 * **API**
 <br>具体 API 用法请参考 [Demo](https://github.com/telpouc/rtsplive/tree/master/app)
 <br>具体 API 接口说明请参考 [在线 Javadoc 文档](https://www.jitpack.io/com/github/telpouc/rtsplive/common/1.0.1/javadoc)
-
